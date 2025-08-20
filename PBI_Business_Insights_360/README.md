@@ -12,16 +12,16 @@ AtliQ Hardwares faced significant operational challenges due to outdated, Excel-
 
 ## **Data Model & Integrity**
 
-🔗 [**View Data Model**](https://github.com/ritvikraj-cse/DA_PBI_Business_Insights_360/blob/main/visuals/data_model.PNG)
+🔗 [**View Data Model**](https://github.com/ritvikraj-cse/DA_Projects/blob/main/PBI_Business_Insights_360/visuals/data_model.PNG)
 
 ## **Power BI Dashboard Views**
 
-- 🏠 [**Home Page**](https://github.com/ritvikraj-cse/DA_PBI_Business_Insights_360/blob/main/visuals/homepage.png) – Centralized dashboard navigation and overview  
-- 💰 [**Finance View**](https://github.com/ritvikraj-cse/DA_PBI_Business_Insights_360/blob/main/visuals/finance.png) – P&L statements, revenue trends, and cost control  
-- 📈 [**Sales View**](https://github.com/ritvikraj-cse/DA_PBI_Business_Insights_360/blob/main/visuals/sales.png) – Insights on customer behavior, product performance, and revenue  
-- 📣 [**Marketing View**](https://github.com/ritvikraj-cse/DA_PBI_Business_Insights_360/blob/main/visuals/marketing.png) – ROI evaluation, brand visibility, and campaign effectiveness  
-- 📦 [**Supply Chain View**](https://github.com/ritvikraj-cse/DA_PBI_Business_Insights_360/blob/main/visuals/suppy_chain.png) – Inventory management, demand forecasting, and operational efficiency  
-- 🧑‍💼 [**Executive View**](https://github.com/ritvikraj-cse/DA_PBI_Business_Insights_360/blob/main/visuals/executive.png) – Key KPIs and high-level strategic insights for leadership
+- 🏠 [**Home Page**](https://github.com/ritvikraj-cse/DA_Projects/blob/main/PBI_Business_Insights_360/visuals/homepage.png) – Centralized dashboard navigation and overview  
+- 💰 [**Finance View**](https://github.com/ritvikraj-cse/DA_Projects/blob/main/PBI_Business_Insights_360/visuals/finance.png) – P&L statements, revenue trends, and cost control  
+- 📈 [**Sales View**](https://github.com/ritvikraj-cse/DA_Projects/blob/main/PBI_Business_Insights_360/visuals/sales.png) – Insights on customer behavior, product performance, and revenue  
+- 📣 [**Marketing View**](https://github.com/ritvikraj-cse/DA_Projects/blob/main/PBI_Business_Insights_360/visuals/marketing.png) – ROI evaluation, brand visibility, and campaign effectiveness  
+- 📦 [**Supply Chain View**](https://github.com/ritvikraj-cse/DA_Projects/blob/main/PBI_Business_Insights_360/visuals/suppy_chain.png) – Inventory management, demand forecasting, and operational efficiency  
+- 🧑‍💼 [**Executive View**](https://github.com/ritvikraj-cse/DA_Projects/blob/main/PBI_Business_Insights_360/visuals/executive.png) – Key KPIs and high-level strategic insights for leadership
 
 ## **Project Implementation Steps**
 
