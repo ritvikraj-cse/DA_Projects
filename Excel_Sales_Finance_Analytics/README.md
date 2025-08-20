@@ -61,7 +61,7 @@ This **Excel-based project** provides **Sales & Financial Analysis Reports** usi
 ---
 
 ## 🔗 Repository
-[📂 GitHub: DA_Excel_Sales_Finance_Analytics](https://github.com/ritvikraj-cse/DA_Excel_Sales_Finance_Analytics)  
+[📂 GitHub: DA_Excel_Sales_Finance_Analytics](https://github.com/ritvikraj-cse/DA_Projects/tree/main/Excel_Sales_Finance_Analytics) 
 
 ---
 
