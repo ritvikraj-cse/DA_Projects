@@ -21,22 +21,22 @@
 ---
 
 ## 📈 Data Model  
-🔍 **[Entity Relationships](https://github.com/ritvikraj-cse/DA_PBI_EV_Market_Analysis/blob/main/visuals/data_model.PNG)** | 🔍 **[Relationships](https://github.com/ritvikraj-cse/DA_PBI_EV_Market_Analysis/blob/main/visuals/data_relationships.PNG)**  
+🔍 **[Entity Relationships](https://github.com/ritvikraj-cse/DA_Projects/blob/main/PBI_EV_Market_Analysis/visuals/data_model.PNG)** | 🔍 **[Relationships](https://github.com/ritvikraj-cse/DA_Projects/blob/main/PBI_EV_Market_Analysis/visuals/data_relationships.PNG)**  
 
 ---
 
 ## 📊 Dashboard (3 Pages)  
 
-### 1️⃣ **[Home Page](https://github.com/ritvikraj-cse/DA_PBI_EV_Market_Analysis/blob/main/visuals/homepage.png)**  
+### 1️⃣ **[Home Page](https://github.com/ritvikraj-cse/DA_Projects/blob/main/PBI_EV_Market_Analysis/visuals/homepage.png)**  
 An overview of the EV market in India with high-level insights into EV sales, market penetration, and top-performing states and makers.
 
-### 2️⃣ **[Maker’s Analysis](https://github.com/ritvikraj-cse/DA_PBI_EV_Market_Analysis/blob/main/visuals/maker.png)**  
+### 2️⃣ **[Maker’s Analysis](https://github.com/ritvikraj-cse/DA_Projects/blob/main/PBI_EV_Market_Analysis/visuals/maker.png)**  
 - **Total Vehicle Sales**: 57M | **EV Sales**: 2M | **CAGR**: 13.56% | **EV Sales CAGR**: 93.91% | **Penetration Rate**: 3.61%  
 - **Top 5 Makers**: Ola Electric (489k), TVS (273k), Ather (204k), Hero Electric (170k), Ampere (167k)  
 - **Top 5 Makers by CAGR**: BMW India, BYD India, OLA Electric, TVS, Volvo  
 - **Quarterly Sales Trends**: Example – OLA Electric (Q1: 99k, Q2: 73k, Q3: 133k, Q4: 185k)  
 
-### 3️⃣ **[State’s Analysis](https://github.com/ritvikraj-cse/DA_PBI_EV_Market_Analysis/blob/main/visuals/state.png)**  
+### 3️⃣ **[State’s Analysis](https://github.com/ritvikraj-cse/DA_Projects/blob/main/PBI_EV_Market_Analysis/visuals/state.png)**  
 - **Total Vehicle Sales**: 57M | **EV Sales**: 2M | **Penetration Rate**: 3.61%  
 - **Projected EV Sales (2030)**: Maharashtra (13.4M), Kerala (11.8M)  
 - **Top States by Penetration**: Goa, Karnataka, Delhi, Kerala, Maharashtra  
